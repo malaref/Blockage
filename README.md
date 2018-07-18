@@ -1,0 +1,2 @@
+# Blockage
+Block a page!
