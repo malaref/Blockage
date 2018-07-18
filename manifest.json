@@ -3,7 +3,7 @@
   "name": "Blockage",
   "version": "0.1",
   "description": "Block a page!",
-  "permissions": ["webNavigation", "tabs", "storage"],
+  "permissions": ["webNavigation", "storage"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
