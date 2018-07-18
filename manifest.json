@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Blockage",
+  "version": "0.1",
+  "description": "Block a page!",
+  "permissions": ["webNavigation", "tabs", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
